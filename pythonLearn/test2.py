@@ -1,6 +1,11 @@
 #!/usr/bin/python
 # -*-coding: UTF-8 -*-
 
+
+#python基础练习
+
+
+
 # 基本数据类型
 
 print ('I\'m ok') #转义字符使用
@@ -116,8 +121,6 @@ print (list1)
 str = 'abcd'
 str1 = str.replace('a','A') #string replace操作，str内容不变，str1内容变化
 print (str)
-
-
 
 
 
